@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd" xmlns="http://www.phyloxml.org">
+   <phylogeny rooted="true">
+      <name> Senal Test   </name>
+      <clade>
+         <clade branch_length="0.06">
+            <clade branch_length="0.54362">
+               <name>1</name>
+            </clade>
+
+
+
+            <clade branch_length="0.41314">
+               <name>2</name>
+            </clade>
+
+
+
+         </clade>
+
+
+         <clade branch_length="0.41953">
+            <name> 3</name>
+         </clade>
+
+
+
+
+
+         <clade branch_length="0.40505">
+            <name>  4 </name>
+         </clade>
+
+         <clade branch_length="0.40058">
+           <name> 5 </name>
+
+         </clade>
+         <clade branch_length="-0.09094">
+            <name> 6 </name>
+         </clade>
+         <clade branch_length="-0.09094">
+            <name> 7</name>
+         </clade>
+         <clade branch_length="0.09094">
+            <name> 8 </name>
+
+
+         </clade>
+         <clade branch_length="0.21892">
+            <name> 9 </name>
+         </clade> 
+
+         
+         <clade branch_length="-0.05021">
+
+         <name> 10 </name>
+
+         </clade>
+
+
+         <clade branch_length="0.05021">
+         <name>11</name>
+         </clade> 
+         <clade branch_length="-0.01453">
+         <name> 12 </name>  
+         </clade>
+         <clade branch_length="0.15835">
+         <name> 13 </name> 
+
+         </clade> 
+
+         <clade branch_length="0.42067">
+         <name> 14 </name> 
+         </clade>
+
+        <clade branch_length="0.38231">
+         <name> 15 </name>
+        </clade>
+
+
+
+      </clade>
+   </phylogeny>
+ </phyloxml>
+
+
+
+
+
